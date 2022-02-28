@@ -1,3 +1,3 @@
 # Linear_power_supply
 
-schematic for a linear bench power supply, in pdf format.
+Schematic for a linear bench power supply in pdf format and Arduino code.
