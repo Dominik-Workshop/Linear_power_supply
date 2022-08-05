@@ -2,6 +2,8 @@
 
 Homemade linear power supply capable of outputing 250W
 
+More info can be found on my YouTube channel: https://youtu.be/JCxF-o6tLgA
+
 ![image](https://user-images.githubusercontent.com/100617381/183008005-6107a18e-5e3e-44fe-9d87-a635281320e9.png)
 
 I used this 12 300VA transformer, which I sligtly modified. The secondary winding consisted of 4 wires connected in parallel. I split them in 2 and connected in series, getting 24V with a center tap). Last but not least I added another winding of around 8V.
