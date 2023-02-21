@@ -2,6 +2,8 @@
 
 Homemade linear power supply capable of outputing 250W
 
+Output voltage waveforms can be found in measurements.pdf
+
 More info can be found on my YouTube channel: https://youtu.be/JCxF-o6tLgA
 
 ![image](https://user-images.githubusercontent.com/100617381/183008005-6107a18e-5e3e-44fe-9d87-a635281320e9.png)
