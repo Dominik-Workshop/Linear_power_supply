@@ -8,7 +8,7 @@
 
 ## Used tools:
 <img align="center" height="64" src="images/logos/Eagle.png"> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-<img align="center"  height="64" src="images/logos/Fusion-360.png">
+<img align="center"  height="64" src="images/logos/Fusion-360.png">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img align="center"  height="64" src="images/logos/Arduino.png">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img align="center"  height="64" src="images/logos/LTspice.jpg">
 #
 
 ## Project Overview
@@ -25,9 +25,10 @@
 > <details>
 > <summary>Click to learn more</summary>
 > After performing some simulations in LTspice, I figured out that simply changing the Q1 MOSFET to a BJT greatly improved the output response to input step:
+>
 > Before (with MOSFET):
 > <image src="images/screenshots/old_step.png">
-> After (with BJT)
+> After (with BJT):
 > <image src="images/screenshots/new_step.png">
 > (The bode plot also looks better)
 > </details>
