@@ -8,7 +8,7 @@
 
 ## Used tools:
 <img align="center" height="64" src="images/logos/Eagle.png"> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-<img align="center"  height="64" src="images/logos/Fusion-360.png">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img align="center"  height="64" src="images/logos/Arduino.png">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img align="center"  height="64" src="images/logos/LTspice.jpg">
+<img align="center"  height="64" src="images/logos/Fusion-360.png">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img align="center"  height="64" src="images/logos/Arduino.png">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img align="center"  height="84" src="images/logos/LTspice.jpg">
 #
 
 ## Project Overview
