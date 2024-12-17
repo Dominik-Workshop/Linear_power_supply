@@ -21,7 +21,7 @@
 <img align="center" src="images/pictures/psu_front.png"> 
 
 > [!IMPORTANT]
-> I changed the Q1 transistor from IRF9530 (P-MOSFET) to BD912 (PNP-BJT) to gratly improve the stability of this power supply and completely eliminate oscillations in the constant current mode. (Their pinouts match, so it is a drop in replacement)
+> I changed the Q1 transistor from IRF9530 (P-MOSFET) to BD912 (PNP-BJT) to greatly improve the stability of this power supply and completely eliminate oscillations in the constant current mode. (Their pinouts match, so it is a drop-in replacement)
 > <details>
 > <summary>Click to learn more</summary>
 > After performing some simulations in LTspice, I figured out that simply changing the Q1 MOSFET to a BJT greatly improved the output response to input step:
@@ -33,11 +33,11 @@
 > (The bode plot also looks better)
 > </details>
 
-## Otput Measurements
+## Output Measurements
 Output voltage waveforms before changing Q1 to a BJT can be found in measurements.pdf
 
 ## Project details
-I used this 12 300VA transformer, which I sligtly modified. The secondary winding consisted of 4 wires connected in parallel. I split them in 2 and connected in series, getting 24V with a center tap). Last but not least I added another winding of around 8V.
+I used this 12 300VA transformer, which I slightly modified. The secondary winding consisted of 4 wires connected in parallel. I split them in 2 and connected in series, getting 24V with a center tap). Last but not least, I added another winding of around 8V.
 ![image](https://user-images.githubusercontent.com/100617381/183007895-9f96c52b-03fa-483e-87bb-669523269e95.png)
 
 I used an old graphics card's heatsink for cooling.
